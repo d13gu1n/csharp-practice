@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Hello, World!");
+﻿// Activity 1
+
+Console.WriteLine("Hello, World!");
 // Console.Write("Congratulations!");
 // Console.Write(" ");
 // Console.Write("You wrote your first lines of code.");
@@ -20,9 +22,23 @@ Console.WriteLine(123);
 Console.WriteLine("true");
 Console.WriteLine(true);
 
-// Activity 1
-
 Console.WriteLine("This is the first line.");
 Console.Write("This is the second line.");
 
 // End of Activity 1
+
+Console.WriteLine("");
+Console.WriteLine("");
+
+// Activity 2
+
+string firstName = "Bob";
+Console.WriteLine(firstName);
+firstName = "Liem";
+Console.WriteLine(firstName);
+firstName = "Isabella";
+Console.WriteLine(firstName);
+firstName = "Yasmin";
+Console.WriteLine(firstName);
+
+var message = "Hello World!";
