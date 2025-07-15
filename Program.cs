@@ -19,3 +19,10 @@ Console.WriteLine(123);
 
 Console.WriteLine("true");
 Console.WriteLine(true);
+
+// Activity 1
+
+Console.WriteLine("This is the first line.");
+Console.Write("This is the second line.");
+
+// End of Activity 1
