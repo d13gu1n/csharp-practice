@@ -12,3 +12,4 @@
 /home/dacevedom/csharp-practice/CSharpPractice/obj/Debug/net9.0/CSharpPractice.pdb
 /home/dacevedom/csharp-practice/CSharpPractice/obj/Debug/net9.0/CSharpPractice.genruntimeconfig.cache
 /home/dacevedom/csharp-practice/CSharpPractice/obj/Debug/net9.0/ref/CSharpPractice.dll
+/home/dacevedom/csharp-practice/CSharpPractice/obj/Debug/net9.0/CSharpPractice.sourcelink.json
