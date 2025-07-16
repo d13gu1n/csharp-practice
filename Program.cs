@@ -72,3 +72,11 @@ Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World");
 
 Console.Write("\n\n\u65e5\u672c\u306e\u8acb\u6c42\u66f8\u3092\u751f\u6210\u3059\u308b\u306b\u306f\uff1a\n\t");
 Console.WriteLine(@"c:\invoices\app.exe -j");
+
+string firstNameAct3 = "Bob";
+string messageAct3 = "Hello " + firstNameAct3;
+Console.WriteLine(messageAct3);
+string greetingAct3 = "Hello";
+string messageAct3_2 = greetingAct3 + " " + firstNameAct3 + "!";
+Console.WriteLine(messageAct3_2);
+Console.WriteLine(greetingAct3 + " " + firstNameAct3 + "!");
