@@ -80,3 +80,17 @@ string greetingAct3 = "Hello";
 string messageAct3_2 = greetingAct3 + " " + firstNameAct3 + "!";
 Console.WriteLine(messageAct3_2);
 Console.WriteLine(greetingAct3 + " " + firstNameAct3 + "!");
+
+int version = 11;
+string updateText = "Update to Windows";
+string messageAct3_3 = $"{updateText} {version}";
+Console.WriteLine(messageAct3_3);
+
+string projectName = "First-Project";
+Console.WriteLine($@"C:\Output\{projectName}\Data");
+
+string projectNameAct3_4 = "ACME";
+string russianMessage = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u044b\u0432\u043e\u0434";
+string firstMessage = "View English output: ";
+Console.WriteLine($"{firstMessage}\n  c:\\Exercise\\{projectNameAct3_4}\\data.txt\n");
+Console.WriteLine($"{russianMessage}: \n  c:\\Exercise\\{projectNameAct3_4}\\ru-RU\\data.txt");
