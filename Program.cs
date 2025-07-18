@@ -94,3 +94,81 @@ string russianMessage = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\
 string firstMessage = "View English output: ";
 Console.WriteLine($"{firstMessage}\n  c:\\Exercise\\{projectNameAct3_4}\\data.txt\n");
 Console.WriteLine($"{russianMessage}: \n  c:\\Exercise\\{projectNameAct3_4}\\ru-RU\\data.txt");
+
+// Activity 4
+
+int firstNumber = 12;
+int secondNumber = 7;
+Console.WriteLine(firstNumber + secondNumber);
+
+string firstName_Act4 = "Bob";
+int widgetsSold = 7;
+Console.WriteLine(firstName_Act4 + " sold " + widgetsSold + " widgets.");
+Console.WriteLine(firstName_Act4 + " sold " + widgetsSold + 7 + " widgets.");
+Console.WriteLine(firstName_Act4 + " sold " + (widgetsSold + 7) + " widgets.");
+
+int sum = 7 + 5;
+int difference = 7 - 5;
+int product = 7 * 5;
+int quotient = 7 / 5;
+
+Console.WriteLine("Sum: " + sum);
+Console.WriteLine("Difference: " + difference);
+Console.WriteLine("Product: " + product);
+Console.WriteLine("Quotient: " + quotient);
+
+decimal decimalQuotientEx1 = 7.0m / 5;
+Console.WriteLine($"Decimal quotient 1: {decimalQuotientEx1}");
+decimal decimalQuotientEx2 = 7 / 5.0m;
+Console.WriteLine($"Decimal quotient 2: {decimalQuotientEx2}");
+decimal decimalQuotientEx3 = 7.0m / 5.0m;
+Console.WriteLine($"Decimal quotient 3: {decimalQuotientEx3}");
+
+int first = 7;
+int second = 5;
+decimal quotient_Act4 = (decimal)first / (decimal)second;
+Console.WriteLine(quotient_Act4);
+
+Console.WriteLine($"Modulus of 200 / 5: {200 % 5}");
+Console.WriteLine($"Modulus of 7 / 5: {7 % 5}");
+
+int value1 = 3 + 4 * 5;
+int value2 = (3 + 4) * 5;
+Console.WriteLine(value1);
+Console.WriteLine(value2);
+
+int value3 = 0;
+value3 = value3 + 5;
+Console.WriteLine($"Value: {value3}");
+value3 += 5;
+Console.WriteLine($"Value: {value3}");
+
+int value4 = 0;
+value4 = value4 + 1;
+Console.WriteLine($"Value: {value4}");
+value4++;
+Console.WriteLine($"Value: {value4}");
+
+int value5 = 1;
+value5 = value5 + 1;
+Console.WriteLine("First increment: " + value5);
+value5 += 1;
+Console.WriteLine("Second increment: " + value5);
+value5++;
+Console.WriteLine("Third increment: " + value5);
+value5 = value5 - 1;
+Console.WriteLine("First decrement: " + value5);
+value5 -= 1;
+Console.WriteLine("Second decrement: " + value5);
+value5--;
+Console.WriteLine("Third decrement: " + value5);
+
+int value6 = 1;
+value6++;
+Console.WriteLine("First: " + value6);
+Console.WriteLine($"Second: {value6++}");
+Console.WriteLine("Third: " + value6);
+Console.WriteLine("Fourth: " + (++value6));
+
+int fahrenheit = 94;
+Console.WriteLine($"The temperature is {(fahrenheit - 32m)* (5m / 9m)} Celsius");
