@@ -1,0 +1,15 @@
+/home/dacevedom/csharp-practice/CSharpPractice/bin/Debug/net9.0/CSharpPractice
+/home/dacevedom/csharp-practice/CSharpPractice/bin/Debug/net9.0/CSharpPractice.deps.json
+/home/dacevedom/csharp-practice/CSharpPractice/bin/Debug/net9.0/CSharpPractice.runtimeconfig.json
+/home/dacevedom/csharp-practice/CSharpPractice/bin/Debug/net9.0/CSharpPractice.dll
+/home/dacevedom/csharp-practice/CSharpPractice/bin/Debug/net9.0/CSharpPractice.pdb
+/home/dacevedom/csharp-practice/CSharpPractice/obj/Debug/net9.0/CSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/dacevedom/csharp-practice/CSharpPractice/obj/Debug/net9.0/CSharpPractice.AssemblyInfoInputs.cache
+/home/dacevedom/csharp-practice/CSharpPractice/obj/Debug/net9.0/CSharpPractice.AssemblyInfo.cs
+/home/dacevedom/csharp-practice/CSharpPractice/obj/Debug/net9.0/CSharpPractice.csproj.CoreCompileInputs.cache
+/home/dacevedom/csharp-practice/CSharpPractice/obj/Debug/net9.0/CSharpPractice.sourcelink.json
+/home/dacevedom/csharp-practice/CSharpPractice/obj/Debug/net9.0/CSharpPractice.dll
+/home/dacevedom/csharp-practice/CSharpPractice/obj/Debug/net9.0/refint/CSharpPractice.dll
+/home/dacevedom/csharp-practice/CSharpPractice/obj/Debug/net9.0/CSharpPractice.pdb
+/home/dacevedom/csharp-practice/CSharpPractice/obj/Debug/net9.0/CSharpPractice.genruntimeconfig.cache
+/home/dacevedom/csharp-practice/CSharpPractice/obj/Debug/net9.0/ref/CSharpPractice.dll

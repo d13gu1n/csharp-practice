@@ -1,6 +1,2 @@
 #editor config
 .editorconfig
-
-# CSharp compilation files
-bin/
-obj/
