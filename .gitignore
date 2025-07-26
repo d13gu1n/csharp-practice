@@ -1,2 +1,6 @@
 #editor config
 .editorconfig
+
+#bin & obj folders
+bin/
+obj/
